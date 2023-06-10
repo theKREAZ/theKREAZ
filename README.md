@@ -5,8 +5,6 @@
 Programming Languages <br/>
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/php-logo-only-letter.svg"  alt="php" width="40" height="40"/> 
-||
-|
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="40" height="40"/>
 - - - -
