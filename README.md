@@ -1,0 +1,2 @@
+Hi, I'm Kreaz 👋, a Developer.
+![68747470733a2f2f7777772e7265616374696f6e676966732e636f6d2f722f6b74706e672e676966](https://github.com/theKREAZ/theKREAZ/assets/127121809/204ca6d6-018c-4d00-8e5c-d536874b5dcc)
